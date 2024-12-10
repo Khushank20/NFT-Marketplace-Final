@@ -1,23 +1,6 @@
 # Dependency directories
 node_modules/
 .cache/
-build/
-artifacts/
-coverage/
-
-# Hardhat specific
-hardhat.config.ts
-hardhat.config.js
-typechain/
-typechain-types/
-
-# Compiled bytecode
-*.json
-
-# Local environment files
-.env
-.env.local
-.env.*.local
 
 # Logs
 npm-debug.log*
@@ -36,12 +19,3 @@ Thumbs.db
 # Coverage output
 coverage/
 
-# Miscellaneous
-*.log
-*.pid
-*.seed
-*.pid.lock
-
-# Ethereum specific
-*.key
-*.pem
