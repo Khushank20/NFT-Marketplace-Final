@@ -64,6 +64,14 @@ nft-marketplace/
 ├── hardhat.config.js # Hardhat configuration
 └── .env             # Environment variables (not included in version control)
 
+## NFT Marketplace Application
+
+
+
+https://github.com/user-attachments/assets/e382585a-5bda-471a-9751-d1dac5c32b49
+
+
+
 
 
 
